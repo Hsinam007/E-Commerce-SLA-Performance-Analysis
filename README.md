@@ -46,6 +46,6 @@ Late deliveries are approximately **28% more expensive** than on-time deliveries
 ---
 
 ## ✍️ Author
-**[Manish**  
+**[Manish Raj]**  
 Pre-MBA Business Analytics Project  
 *E-Commerce Logistics SLA Optimization*
